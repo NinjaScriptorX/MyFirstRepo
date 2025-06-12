@@ -1,1 +1,2 @@
-	Learnt how to use git to clone, check status and vi command
+Learnt how to use git to clone, check status and vi command
+Some corrections done too
